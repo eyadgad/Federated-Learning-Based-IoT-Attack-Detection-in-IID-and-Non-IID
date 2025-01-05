@@ -82,9 +82,8 @@ python train.py
 
 Results, including global models and performance metrics, are saved in the `output/` directory for analysis.
 
-```
-
 ---
+
 ## 📄 References
 If you use this work in your research, please cite:
 
