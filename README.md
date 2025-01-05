@@ -84,13 +84,12 @@ Results, including global models and performance metrics, are saved in the `outp
 
 ```
 
-
 ---
-
 ## 📄 References
 If you use this work in your research, please cite:
-```
-plaintext
+
+```plaintext
+
 @INPROCEEDINGS{10577749,
   author={Gad, Eyad and Fadlullah, Zubair Md and Fouda, Mostafa M.},
   booktitle={2024 International Conference on Smart Applications, Communications and Networking (SmartNets)}, 
@@ -99,6 +98,7 @@ plaintext
   pages={1-6},
   doi={10.1109/SmartNets61466.2024.10577749}
 }
+
 ```
 
 ---
