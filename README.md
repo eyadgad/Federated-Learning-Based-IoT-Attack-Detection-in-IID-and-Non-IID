@@ -4,7 +4,6 @@
 
 ## 📖 Project Overview
 This repository implements a **Federated Learning (FL)** framework for **IoT attack detection** under challenging **non-IID data distributions**. By utilizing the **CICIoT2023 dataset**, we explore the performance of three FL algorithms: **FedAvg**, **FedProx**, and **Scaffold**. This work addresses statistical heterogeneity in IoT data, a common bottleneck in FL systems, and proposes robust methods to ensure scalability and effectiveness in **privacy-preserving machine learning** for resource-constrained IoT networks.
-
 ---
 
 ## 🗂️ Repository Structure
